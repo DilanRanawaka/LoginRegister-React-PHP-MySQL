@@ -2,7 +2,7 @@
 
 Database - XAMPP Server(MySQl)
 
-Backend directory files copy into the htdocs directory and run the server.
+Backend directory files copy into the htdocs/php-login-registration-api directory and run the server.
 
 In the frontend directory, you can run:
 
